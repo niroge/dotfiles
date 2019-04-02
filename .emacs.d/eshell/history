@@ -1,0 +1,128 @@
+cd ..
+cd Sources/
+ls
+cd binutils/
+ls
+cd src/
+ls
+ls -la
+cd ..
+ls
+tar xvf binutils-2.32.tar.xz 
+./configure
+find . -iname "*ls*"
+find . -iname "ls*"
+find . -iname "ls"
+find . -iname "*bash*"
+find . -iname "*sh*"
+ls
+cd Code/
+ls
+cd Sources/
+ls
+rm -rf binutils/
+asp export bash
+ls
+cd bash/
+ls
+makepkg -o
+ls
+cd src/
+ls
+ls -la
+cd ..
+ls
+mv bash-5.0.tar.gz src/
+cd src/
+ls
+tar xf bash-5.0.tar.gz 
+ls
+cd bash-5.0/
+ls
+./configure 
+ls
+ls
+grep main *
+grep main *
+ls
+ls
+mailx
+ls
+mail
+l
+clear
+ls
+ls
+ls
+cd
+clear
+cd co
+cd Code/
+ls
+cd cd Problema_Scatole/
+ls
+cd Problema_Scatole/
+ls
+./main.exe 
+exit
+find . -iname "*.tex"
+exit
+ls
+./bootstrap.py 
+ls
+waf
+./waf configure --help
+./waf configure
+ls
+./waf
+cd
+cd .emacs.d/
+ls
+cd elpa/
+ls
+git clone https://github.com/sebastiencs/sidebar.el.git
+ls
+cd sidebar.el/
+ls
+git clone https://github.com/sebastiencs/icons-in-terminal.git
+ls
+cd icons-in-terminal/
+ls
+./install-autodetect.sh
+./install.sh 
+ls
+cd
+cd Code/domohouse/
+ls
+git status
+git add DesktopVersion/
+git status
+git add test/
+git status
+ls
+cd .pioenvs/
+l
+ls
+cd ..
+ls
+git status
+ls
+cd
+ls
+rm main.aux main.log main.log main.tex main.pdf
+ls
+rm main.lisp 
+exit
+cd ..
+platformio run --target upload
+make
+cd Cod
+cd DesktopVersion/
+make
+exit
+ls
+grep sidebar-fint-file-from-line *
+grep sidebar-fint-file-from-line * -R
+grep sidebar-find-file-from-line * -R
+grep sidebar-find-file-from-line * -R
+exit

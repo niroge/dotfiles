@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/niroge/Code/" . "Problema_Scatole/")
+ ("/home/" . "niroge/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/niroge/"
+ "/home/niroge/Code/Problema_Scatole/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "main.cc"
+ "#main.cc#"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/niroge/" (23710 19358 89602 392000) "Musica/" ".ghidra/" ".gitconfig" ".local/" ".vim_mru_files" ".vim_runtime/" ".nvidia-settings-rc" "Modelli/" ".conan/" ".kde4/" ".bash_logout" ".ICEauthority" ".gdbinit-gef.py" ".vim/" "Documenti/" "cart.php" ".bash_profile" ".nv/" ".python_history" ".config/" "Video/" ".emacs" "Immagini/" "Desktop/" ".mozilla/" "../" "Arduino/" ".arduino15/" "Scaricati/" ".bash_history" ".emacs~" ".themes/" ".vimrc" "./" ".gtkrc-2.0" ".bashrc" ".gdbinit" ".wget-hsts" ".viminfo" ".gdb_history" ".mysql_history" ".esd_auth" ".xinitrc" ".platformio/" ".pki/" ".cache/" ".node_repl_history" ".icons/" "Code/" ".gdbinit.old" ".saves/" "Pubblici/" ".Xauthority" ".lesshst" ".ropper/" ".emacs.d/" ".java/")
+
+ ("/home/niroge/Code/Problema_Scatole/" (23710 20200 686219 953000) ".#main.cc" "../" "./" "main.cc" "#main.cc#" "main.exe")
+
+ ("/home/niroge/Code/" (23710 19058 572953 40000) "goquiz/" "arduino_alarm_manager/" "SELain/" "domohouse/" "../" "inventwithpython/" "gonetworking/" "bruteforce/" "kkk/" "./" "asm/" "classe/" "morra_cinese/" "DifferenziataBot/" "Problema_Scatole/" "Cracknet/" "hacked/" "GameConsole/")
+
+ ("/home/" (23689 5275 696429 747000) "../" "./" "niroge/")
+
+ ("/srv/" (23689 3734 596398 877000) "ftp/" "../" "./" "http/")
+
+ ("/srv/http/" (23709 5569 109094 357000) "add_purchase.php" "cart.php" "readme.txt" "img/" "../" "index.html" "css/" "./" "js/" "cart.html")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
